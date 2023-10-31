@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me:
-- 🌱 I'm learning frontend development.
+- 🌱 I'm learning iOS-development.
 - 👩‍💻 Amazon Advertising Specialist.
 
 
