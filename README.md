@@ -13,13 +13,13 @@
 -->
 ## About Me:
 - 🌱 I'm learning iOS-development.
-- 👩‍💻 Amazon Advertising Specialist.
+- 👩‍💻 Amazon Advertising Specialist (PPC and DSP).
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-mastykova-920642261)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) 
 
 
