@@ -13,7 +13,6 @@
 -->
 ## About Me:
 - 🌱 I'm learning iOS-development.
-- 🔭 My goal is to bring maximum benefit to the projects I participate in and foster a positive workplace environment that values collaboration, creativity, and personal development.
 - 👩‍💻 By the way, I'm an Amazon Advertising Specialist (PPC and DSP).
 
 
