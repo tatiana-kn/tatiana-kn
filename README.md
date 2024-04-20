@@ -11,24 +11,19 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![CSS3](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 -->
-## About Me:
+#### About Me:
 - 🌱 I'm learning iOS-development.
-- 👩‍💻 By the way, I'm an Amazon Advertising Specialist (PPC and DSP).
+- 👩‍💻 Amazon Advertising Specialist (PPC and DSP).
 
 
-## 🌐 Socials:
+#### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-mastykova-920642261)
 
-## 💻 Tech Stack: 
+#### 💻 Tech Stack: 
 ![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) 
 
-<!--
-- SwiftUI | UIKit
-- MVVM | MVC
-- Core Data | Realm | Firebase
-- URLSession | Alamofire
-- Figma
--->
+SwiftUI - UIKit -  MVVM - MVC - Firebase - URLSession - Alamofire - Figma
+
 
 
 
